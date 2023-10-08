@@ -1,0 +1,287 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Quizz",
+            "request": "launch",
+            "mainClass": "Quizz",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch socclient",
+            "request": "launch",
+            "mainClass": "socclient",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch socserver",
+            "request": "launch",
+            "mainClass": "socserver",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch priothread",
+            "request": "launch",
+            "mainClass": "priothread",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch transmat",
+            "request": "launch",
+            "mainClass": "transmat",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch strequal",
+            "request": "launch",
+            "mainClass": "strequal",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrpro",
+            "request": "launch",
+            "mainClass": "arrpro",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch conString",
+            "request": "launch",
+            "mainClass": "conString",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch ascarr",
+            "request": "launch",
+            "mainClass": "ascarr",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlayerList",
+            "request": "launch",
+            "mainClass": "PlayerList",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch games",
+            "request": "launch",
+            "mainClass": "games",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch ariexc",
+            "request": "launch",
+            "mainClass": "ariexc",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch players",
+            "request": "launch",
+            "mainClass": "players",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch program5",
+            "request": "launch",
+            "mainClass": "program5",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch pan",
+            "request": "launch",
+            "mainClass": "pan",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch program6",
+            "request": "launch",
+            "mainClass": "program6",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch program13",
+            "request": "launch",
+            "mainClass": "program13",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch ass2pro5",
+            "request": "launch",
+            "mainClass": "ass2pro5",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch pss2ro5",
+            "request": "launch",
+            "mainClass": "pss2ro5",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch suarea",
+            "request": "launch",
+            "mainClass": "suarea",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch vehicles",
+            "request": "launch",
+            "mainClass": "vehicles",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch veh",
+            "request": "launch",
+            "mainClass": "veh",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumOutRangeEx",
+            "request": "launch",
+            "mainClass": "NumOutRangeEx",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Deep",
+            "request": "launch",
+            "mainClass": "Deep",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main_abstract",
+            "request": "launch",
+            "mainClass": "Main_abstract",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch Threeadd",
+            "request": "launch",
+            "mainClass": "Threeadd",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch area",
+            "request": "launch",
+            "mainClass": "area",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch assign",
+            "request": "launch",
+            "mainClass": "assign",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch iiinterface",
+            "request": "launch",
+            "mainClass": "iiinterface",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch inner",
+            "request": "launch",
+            "mainClass": "inner",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch marksandper",
+            "request": "launch",
+            "mainClass": "marksandper",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch mathematicsEx",
+            "request": "launch",
+            "mainClass": "mathematicsEx",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch memfunc",
+            "request": "launch",
+            "mainClass": "memfunc",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch packEx",
+            "request": "launch",
+            "mainClass": "packEx",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch tstringmethod",
+            "request": "launch",
+            "mainClass": "tstringmethod",
+            "projectName": "Java_37a01216"
+        },
+        {
+            "type": "java",
+            "name": "Launch volume",
+            "request": "launch",
+            "mainClass": "volume",
+            "projectName": "Java_37a01216"
+        }
+    ]
+}

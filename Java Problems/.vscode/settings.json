@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\kaveri\\Downloads\\jar_files (2)\\javax.servlet-api-4.0.1.jar"
+    ]
+}

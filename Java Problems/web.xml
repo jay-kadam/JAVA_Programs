@@ -1,0 +1,8 @@
+<servlet>
+    <servlet-name>HobbiesServlet</servlet-name>
+    <servlet-class>HobbiesServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>HobbiesServlet</servlet-name>
+    <url-pattern>/hobbies</url-pattern>
+</servlet-mapping>
